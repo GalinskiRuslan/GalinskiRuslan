@@ -15,7 +15,7 @@
           <a style="margin: 15 px;" href="https://about.gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40" /></a>    
 </div>
 <hr/>
-<div>
+<div style="display:'block';>
           <h2 >some Projects I have worked on</h2>
           <a href="https://www.magnumretail.uz/ru/?city_id=1">The first commercial project in which I participated </a>
           <a href="https://business.kassa24.kz/?utm_source=kassa24&utm_medium=header_link&utm_campaign=click#ru">landing page with animation</a>
