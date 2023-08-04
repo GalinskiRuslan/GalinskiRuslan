@@ -21,6 +21,7 @@
           <p><a href="https://business.kassa24.kz/?utm_source=kassa24&utm_medium=header_link&utm_campaign=click#ru">landing page with animation</a></p>
           <p><a href="https://business.kassa24.kz/insta-shop/">presentation page with animated transition</a></p>
           <p><a href="https://www.altyncoin.kz/">site with the issuance of money on nuxt</a></p>
+          <h4> And more landing page</h4>
           
 </div>
           
