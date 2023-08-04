@@ -9,15 +9,10 @@
           <a style="margin: 15 px;" href="https://mui.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40"  /></a>
           <a style="margin: 15 px;" href="https://redux-toolkit.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" /></a>
           <a style="margin: 15 px;" href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" /></a>
-          <a style="margin: 15 px;" href="https://github.com/GalinskiRuslan/React-projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /></a>
-          <a style="margin: 15 px;" href="https://github.com/GalinskiRuslan/React-projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" /></a>
-          <a style="margin: 15 px;" href="https://github.com/GalinskiRuslan/React-projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" /></a>
-          <a style="margin: 15 px;" href="https://github.com/GalinskiRuslan/React-projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40" /></a>
-          
-          
-          
-          
-          
+          <a style="margin: 15 px;" href="https://github.com/GalinskiRuslan/Php-projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /></a>
+          <a style="margin: 15 px;" href="https://github.com/GalinskiRuslan/Php-projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" /></a>
+          <a style="margin: 15 px;" href="https://github.com/GalinskiRuslan/Php-projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" /></a>
+          <a style="margin: 15 px;" href="https://about.gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40" /></a>    
 </div>
 
           
