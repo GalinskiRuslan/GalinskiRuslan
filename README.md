@@ -18,9 +18,9 @@
 <div>
           <h2 >some Projects I have worked on</h2>
           <p><a href="https://www.magnumretail.uz/ru/?city_id=1">The first commercial project in which I participated </a></p>
-          <a href="https://business.kassa24.kz/?utm_source=kassa24&utm_medium=header_link&utm_campaign=click#ru">landing page with animation</a>
-          <a href="https://business.kassa24.kz/insta-shop/">presentation page with animated transition</a>
-          <a href="https://www.altyncoin.kz/">site with the issuance of money on nuxt</a>
+          <p><a href="https://business.kassa24.kz/?utm_source=kassa24&utm_medium=header_link&utm_campaign=click#ru">landing page with animation</a></p>
+          <p><a href="https://business.kassa24.kz/insta-shop/">presentation page with animated transition</a></p>
+          <p><a href="https://www.altyncoin.kz/">site with the issuance of money on nuxt</a></p>
           
 </div>
           
