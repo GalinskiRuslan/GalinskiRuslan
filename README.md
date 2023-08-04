@@ -15,7 +15,10 @@
           <a style="margin: 15 px;" href="https://about.gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40" /></a>    
 </div>
 <hr/>
-
+<div>
+          <p>Projects I have worked on</p>
+          <a href="https://www.magnumretail.uz/ru/?city_id=1">The first commercial project in which I participated</a>
+</div>
           
           
           
