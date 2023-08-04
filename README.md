@@ -3,16 +3,16 @@
 ### Languages and technologies
 <div style="display:'flex'; gap: 15 px;">
           <a style="margin: 15 px;" href="https://github.com/GalinskiRuslan/React-projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" /></a>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" />        
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40"  />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40" />
+          <a style="margin: 15 px;" href="https://github.com/GalinskiRuslan/Html-projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /></a>
+          <a style="margin: 15 px;" href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /></a>
+          <a style="margin: 15 px;" href="https://github.com/GalinskiRuslan/Vue-Nuxt-projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" /></a>        
+          <a style="margin: 15 px;" href="https://mui.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40"  /></a>
+          <a style="margin: 15 px;" href="https://redux-toolkit.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" /></a>
+          <a style="margin: 15 px;" href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" /></a>
+          <a style="margin: 15 px;" href="https://github.com/GalinskiRuslan/React-projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /></a>
+          <a style="margin: 15 px;" href="https://github.com/GalinskiRuslan/React-projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" /></a>
+          <a style="margin: 15 px;" href="https://github.com/GalinskiRuslan/React-projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" /></a>
+          <a style="margin: 15 px;" href="https://github.com/GalinskiRuslan/React-projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40" /></a>
           
           
           
