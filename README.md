@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi i'm Issapov Ruslan👋
+## I'm web developer
+# Languages and technologies
 
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" /> 
 <!--
 **GalinskiRuslan/GalinskiRuslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
