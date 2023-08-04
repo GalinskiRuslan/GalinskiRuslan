@@ -16,8 +16,9 @@
 </div>
 <hr/>
 <div>
-          <p>Projects I have worked on</p>
+          <p style="font-size: 24px;">Projects I have worked on</p>
           <a href="https://www.magnumretail.uz/ru/?city_id=1">The first commercial project in which I participated</a>
+          
 </div>
           
           
