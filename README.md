@@ -14,6 +14,7 @@
           <a style="margin: 15 px;" href="https://github.com/GalinskiRuslan/Php-projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" /></a>
           <a style="margin: 15 px;" href="https://about.gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40" /></a>    
 </div>
+<hr/>
 
           
           
