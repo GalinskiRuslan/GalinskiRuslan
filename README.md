@@ -2,7 +2,7 @@
 ## I'm web developer
 ### Languages and technologies
 <div style="display:'flex';">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" />
+          <a href="https://github.com/GalinskiRuslan/React-projects"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" /></a>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
 </div>
